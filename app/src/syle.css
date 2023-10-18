@@ -1,0 +1,105 @@
+/* :root {
+  text-align: center;
+}
+.error {
+  color: red;
+}
+.todo-list {
+  margin-top: 32px;
+  padding: 55px;
+  background: aliceblue;
+}
+.individual-list {
+  margin: 10px;
+} */
+.error {
+  color: red;
+}
+.color {
+  background-color: #00a973;
+}
+.card {
+  background: white;
+  color: black;
+  font-size: 18px;
+  /* height: 100px; */
+  /* text-align: center; */
+  border-radius: 5px;
+  padding: 10px;
+  border: none !important;
+}
+h1 {
+  text-align: center;
+}
+textarea {
+  border: none;
+  outline: none;
+}
+.w3-input {
+  padding: 0;
+}
+body {
+  background-color: #2970a2;
+  color: #fff;
+}
+blockquote {
+  background-color: #fff;
+}
+.taskDiv {
+  margin: 8px;
+  padding: 10px 8px;
+  background-color: #e4e3e4;
+  color: #333;
+  border-radius: 8px;
+}
+.todo-head {
+  display: flex;
+  justify-content: space-between;
+}
+.submit-btn button {
+  border-color: #494444;
+  border-radius: 3px;
+}
+.clear-btn button {
+  border-radius: 5px;
+  border: none;
+  background: none;
+  height: 23px;
+}
+.clear-btn {
+  display: flex;
+  justify-content: end;
+}
+.edit-head {
+  border-radius: 5px;
+  background-color: gray;
+  margin-top: 10px;
+}
+.pro-head,
+.completed {
+  margin-top: 18px !important;
+  margin-bottom: 20px !important;
+}
+.date {
+  font-size: 12px;
+  /* float: right !important; */
+  display: flex;
+  justify-content: end;
+}
+.card p {
+  text-align: center;
+}
+/* .submit-btn {
+  width: 50px;
+  margin: 5px auto;
+} */
+/* .submit-btn button {
+ border-color: #494444;
+    border-radius: 3px;
+}
+.progress {
+  background-color: aliceblue;
+}
+.completed {
+  background-color: azure;
+} */
